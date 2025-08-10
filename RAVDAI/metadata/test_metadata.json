@@ -1,0 +1,274 @@
+[
+    {
+        "id": 120,
+        "name": "ct1 2023-10-03 20.28.19",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ct1 2023-10-03 20.28.19.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2311/ct1 2023-10-03 20.28.19.eaf",
+        "annotator": "EP",
+        "batch": "2311"
+    },
+    {
+        "id": 130,
+        "name": "markizaint 2023-10-04 11.28.36",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/markizaint 2023-10-04 11.28.36.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2311/markizaint 2023-10-04 11.28.36.eaf",
+        "annotator": "EP",
+        "batch": "2311"
+    },
+    {
+        "id": 52,
+        "name": "ct2 2023-10-02 07.27.39",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ct2 2023-10-02 07.27.39.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2401/ct2 2023-10-02 07.27.39.eaf",
+        "annotator": "DS",
+        "batch": "2401"
+    },
+    {
+        "id": 174,
+        "name": "praha 2023-10-03 17.28.15",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/praha 2023-10-03 17.28.15.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2401/praha 2023-10-03 17.28.15.eaf",
+        "annotator": "EP",
+        "batch": "2401"
+    },
+    {
+        "id": 60,
+        "name": "barrandov 2024-01-29 15.17.44",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/barrandov 2024-01-29 15.17.44.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2402/barrandov 2024-01-29 15.17.44.eaf",
+        "annotator": "DS",
+        "batch": "2402"
+    },
+    {
+        "id": 61,
+        "name": "ct1 2024-01-24 22.37.29",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ct1 2024-01-24 22.37.29.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2402/ct1 2024-01-24 22.37.29.eaf",
+        "annotator": "DS",
+        "batch": "2402"
+    },
+    {
+        "id": 134,
+        "name": "praha 2023-10-01 19.27.29",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/praha 2023-10-01 19.27.29.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2311/praha 2023-10-01 19.27.29.eaf",
+        "annotator": "EP",
+        "batch": "2311"
+    },
+    {
+        "id": 11,
+        "name": "nova 2023-10-01 09.27.18",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/nova 2023-10-01 09.27.18.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2311/nova 2023-10-01 09.27.18.eaf",
+        "annotator": "DS",
+        "batch": "2311"
+    },
+    {
+        "id": 89,
+        "name": "ctart 2024-03-17 13.51.03",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ctart 2024-03-17 13.51.03.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2403/ctart 2024-03-17 13.51.03.eaf",
+        "annotator": "DS",
+        "batch": "2403"
+    },
+    {
+        "id": 30,
+        "name": "prima_news 2023-10-04 22.28.47",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/prima_news 2023-10-04 22.28.47.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2311/prima_news 2023-10-04 22.28.47.eaf",
+        "annotator": "DS",
+        "batch": "2311"
+    },
+    {
+        "id": 220,
+        "name": "prima_news 2024-02-29 21.00.31",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/prima_news 2024-02-29 21.00.31.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2403/prima_news 2024-02-29 21.00.31.eaf",
+        "annotator": "EP",
+        "batch": "2403"
+    },
+    {
+        "id": 208,
+        "name": "ta3 2024-01-23 10.47.02",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ta3 2024-01-23 10.47.02.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2402/ta3 2024-01-23 10.47.02.eaf",
+        "annotator": "EP",
+        "batch": "2402"
+    },
+    {
+        "id": 49,
+        "name": "ct1 2023-10-04 19.28.44",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ct1 2023-10-04 19.28.44.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2401/ct1 2023-10-04 19.28.44.eaf",
+        "annotator": "DS",
+        "batch": "2401"
+    },
+    {
+        "id": 110,
+        "name": "ctart 2024-03-27 17.09.05",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ctart 2024-03-27 17.09.05.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2404/ctart 2024-03-27 17.09.05.eaf",
+        "annotator": "DS",
+        "batch": "2404"
+    },
+    {
+        "id": 59,
+        "name": "zaktv 2023-10-03 09.28.06",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/zaktv 2023-10-03 09.28.06.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2401/zaktv 2023-10-03 09.28.06.eaf",
+        "annotator": "DS",
+        "batch": "2401"
+    },
+    {
+        "id": 54,
+        "name": "ct24 2023-10-04 00.28.25",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ct24 2023-10-04 00.28.25.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2401/ct24 2023-10-04 00.28.25.eaf",
+        "annotator": "DS",
+        "batch": "2401"
+    },
+    {
+        "id": 171,
+        "name": "ctdecko 2023-09-30 19.27.06",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ctdecko 2023-09-30 19.27.06.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2401/ctdecko 2023-09-30 19.27.06.eaf",
+        "annotator": "EP",
+        "batch": "2401"
+    },
+    {
+        "id": 114,
+        "name": "stv2 2024-03-25 18.24.24",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/stv2 2024-03-25 18.24.24.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2404/stv2 2024-03-25 18.24.24.eaf",
+        "annotator": "DS",
+        "batch": "2404"
+    },
+    {
+        "id": 181,
+        "name": "stv2 2023-10-04 06.28.31",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/stv2 2023-10-04 06.28.31.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2401/stv2 2023-10-04 06.28.31.eaf",
+        "annotator": "EP",
+        "batch": "2401"
+    },
+    {
+        "id": 144,
+        "name": "ct2 2023-10-03 23.28.24",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ct2 2023-10-03 23.28.24.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2312/ct2 2023-10-03 23.28.24.eaf",
+        "annotator": "EP",
+        "batch": "2312"
+    },
+    {
+        "id": 79,
+        "name": "barrandov 2024-03-06 11.03.34",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/barrandov 2024-03-06 11.03.34.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2403/barrandov 2024-03-06 11.03.34.eaf",
+        "annotator": "DS",
+        "batch": "2403"
+    },
+    {
+        "id": 32,
+        "name": "stv1 2023-09-30 16.27.02",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/stv1 2023-09-30 16.27.02.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2311/stv1 2023-09-30 16.27.02.eaf",
+        "annotator": "DS",
+        "batch": "2311"
+    },
+    {
+        "id": 104,
+        "name": "stv24 2024-03-08 06.46.53",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/stv24 2024-03-08 06.46.53.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2403/stv24 2024-03-08 06.46.53.eaf",
+        "annotator": "DS",
+        "batch": "2403"
+    },
+    {
+        "id": 196,
+        "name": "ct4sport 2024-01-28 10.10.38",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ct4sport 2024-01-28 10.10.38.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2402/ct4sport 2024-01-28 10.10.38.eaf",
+        "annotator": "EP",
+        "batch": "2402"
+    },
+    {
+        "id": 189,
+        "name": "ta3 2023-10-03 07.28.04",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ta3 2023-10-03 07.28.04.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2401/ta3 2023-10-03 07.28.04.eaf",
+        "annotator": "EP",
+        "batch": "2401"
+    },
+    {
+        "id": 24,
+        "name": "primafamily 2023-10-03 21.28.20",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/primafamily 2023-10-03 21.28.20.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2311/primafamily 2023-10-03 21.28.20.eaf",
+        "annotator": "DS",
+        "batch": "2311"
+    },
+    {
+        "id": 113,
+        "name": "stv1 2024-03-22 18.22.18",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/stv1 2024-03-22 18.22.18.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2404/stv1 2024-03-22 18.22.18.eaf",
+        "annotator": "DS",
+        "batch": "2404"
+    },
+    {
+        "id": 95,
+        "name": "primafamily 2024-02-23 15.21.52",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/primafamily 2024-02-23 15.21.52.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2403/primafamily 2024-02-23 15.21.52.eaf",
+        "annotator": "DS",
+        "batch": "2403"
+    },
+    {
+        "id": 207,
+        "name": "zaktv 2023-10-04 05.28.30",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/zaktv 2023-10-04 05.28.30.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2402/zaktv 2023-10-04 05.28.30.eaf",
+        "annotator": "EP",
+        "batch": "2402"
+    },
+    {
+        "id": 55,
+        "name": "markizaint 2023-10-01 22.27.32",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/markizaint 2023-10-01 22.27.32.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2401/markizaint 2023-10-01 22.27.32.eaf",
+        "annotator": "DS",
+        "batch": "2401"
+    },
+    {
+        "id": 17,
+        "name": "nova 2023-10-05 05.28.53",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/nova 2023-10-05 05.28.53.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/DS/2311/nova 2023-10-05 05.28.53.eaf",
+        "annotator": "DS",
+        "batch": "2311"
+    },
+    {
+        "id": 152,
+        "name": "ctdecko 2023-10-03 00.27.58",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/ctdecko 2023-10-03 00.27.58.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2312/ctdecko 2023-10-03 00.27.58.eaf",
+        "annotator": "EP",
+        "batch": "2312"
+    },
+    {
+        "id": 173,
+        "name": "nova 2023-10-05 05.28.53",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/nova 2023-10-05 05.28.53.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2401/nova 2023-10-05 05.28.53.eaf",
+        "annotator": "EP",
+        "batch": "2401"
+    },
+    {
+        "id": 177,
+        "name": "prima_news 2023-10-05 08.28.55",
+        "video": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/data-240p/prima_news 2023-10-05 08.28.55.mp4",
+        "annotation": "/storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations/EP/2401/prima_news 2023-10-05 08.28.55.eaf",
+        "annotator": "EP",
+        "batch": "2401"
+    }
+]
