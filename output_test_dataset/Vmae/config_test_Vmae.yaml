@@ -1,0 +1,55 @@
+model:
+  num_classes: 8
+  image_size: 224          # 224 je standard pro VideoMAE
+  num_frames: 17           # pro tvůj stream dataset: 2*context_size + 1
+
+data:
+  dataset_type: stream
+  # one_class sekci klidně můžeš nechat v kódu, ale tady používáme stream
+  min_sequence_length: 2
+  max_sequence_length: 16   # (u streamu se nevyužije; nechávám pro kompatibilitu)
+  context_size: 8           # -> T = 17 snímků
+  overlap: 2
+  max_empty_frames: 3
+  frame_sample_rate: 1
+  num_channels: 3
+  height: 224
+  width: 224
+  train_meta_file: /storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/metadata/train_metadata.json
+  val_meta_file: /storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/metadata/val_metadata.json
+  test_meta_file: /storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/metadata/test_metadata.json
+  train_json: /storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/preloaded/balanced2_stream_train_data.json
+  val_json: /storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/preloaded/balanced2_stream_val_data.json
+  test_json: /storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/preloaded/balanced2_stream_test_data.json
+  shuffle: true
+  drop_last: true
+  batch_size: 12            # u VideoMAE může být náročnější na VRAM; případně sniž
+  num_workers: 8
+  decord_num_threads: 8
+  normalize: true
+
+training:
+  model_name: VideoMAE
+  hf_checkpoint: "MCG-NJU/videomae-base"   # nebo "" pro trénování od nuly
+  seed: 42
+  learning_rate: 5.0e-05
+  warmup_epochs: 0.5
+  lr_scheduler: constant                  # ["constant", "cosine", "multistep"]
+  optimizer: adam                         # ["adam", "sgd"]
+  loss: cross_entropy                     # HF má CE vestavěné; LS -> nastav níže
+  label_smoothing: 0.0
+  epochs: 25
+  log_step: 50
+  eval_step: 2000
+  save_step: 200
+  checkpoint_save_dir: checkpoints
+  load_from_checkpoint: ""                # prázdné = nenačítat; dej cestu, pokud chceš navázat
+  load_only_weights: false
+  report_to: wandb
+  balance_dataset: false                  
+  gradient_accumulation_steps: 1
+  eval_metric: f1                         # ["f1", "accuracy", "loss"]
+
+evaluation:
+  checkpoint: Vmae.pth      
+  dataset_meta_file: /storage/plzen4-ntis/projects/korpusy_cv/RAVDAI/annotations.json

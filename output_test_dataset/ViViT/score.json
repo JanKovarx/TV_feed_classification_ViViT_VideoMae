@@ -1,0 +1,59 @@
+{
+  "eval_loss": 1.0701104883532824,
+  "accuracy": 0.8111026422764228,
+  "precision": 0.8117654801693585,
+  "recall": 0.8111026422764228,
+  "f1": 0.8084698641574409,
+  "per_class_metrics": {
+    "studio": {
+      "precision": 0.7283,
+      "recall": 0.8066,
+      "f1": 0.7655
+    },
+    "indoor": {
+      "precision": 0.7942,
+      "recall": 0.6572,
+      "f1": 0.7192
+    },
+    "outdoor": {
+      "precision": 0.8198,
+      "recall": 0.8951,
+      "f1": 0.8558
+    },
+    "p\u0159ed\u011bl": {
+      "precision": 0.6678,
+      "recall": 0.8577,
+      "f1": 0.7509
+    },
+    "reklama": {
+      "precision": 0.8782,
+      "recall": 0.9282,
+      "f1": 0.9025
+    },
+    "upout\u00e1vka": {
+      "precision": 0.8321,
+      "recall": 0.7552,
+      "f1": 0.7918
+    },
+    "grafika": {
+      "precision": 0.7588,
+      "recall": 0.5972,
+      "f1": 0.6684
+    },
+    "z\u00e1bava": {
+      "precision": 0.8654,
+      "recall": 0.8948,
+      "f1": 0.8799
+    }
+  },
+  "per_class_accuracy": {
+    "studio": 0.8066,
+    "indoor": 0.6572,
+    "outdoor": 0.8951,
+    "p\u0159ed\u011bl": 0.8577,
+    "reklama": 0.9282,
+    "upout\u00e1vka": 0.7552,
+    "grafika": 0.5972,
+    "z\u00e1bava": 0.8948
+  }
+}
