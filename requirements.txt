@@ -1,0 +1,11 @@
+av
+numpy
+torch
+torchvision
+opencv-python
+decord
+matplotlib
+einops
+pyyaml
+wandb
+scikit-learn
