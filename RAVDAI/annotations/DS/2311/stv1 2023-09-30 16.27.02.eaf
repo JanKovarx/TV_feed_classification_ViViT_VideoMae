@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-20T14:00:40+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Já/Desktop/ravdai data/stv1 2023-09-30 16.27.02.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./stv1 2023-09-30 16.27.02.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6717bfaa-b721-4173-aa8e-6a6beb63341a</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3622880"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="segmentV" TIER_ID="segmentV">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                CVE_REF="cveid_e9842ad1-1199-404d-b8fa-0410df4ed937"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>zábava</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="RAVDAI"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="segmentV" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="RAVDAI">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_38d8d2cb-f9fe-4fb6-a0ba-ed1e535ab8ff">
+            <CVE_VALUE LANG_REF="und">studio</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_81e4eaaf-94ca-4a39-a6f7-22048483205f">
+            <CVE_VALUE LANG_REF="und">indoor</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3409df0f-c4e1-4c63-ac3d-01d9334961bf">
+            <CVE_VALUE LANG_REF="und">outdoor</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d0e20634-a77a-42bc-bbf1-d99f14c75dbf">
+            <CVE_VALUE LANG_REF="und">předěl</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af">
+            <CVE_VALUE LANG_REF="und">reklama</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2834383e-80c7-437d-80ef-c59f7e2ac59a">
+            <CVE_VALUE LANG_REF="und">upoutávka</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d9e8fbf1-d8b0-4d02-bbbc-767f6ce83308">
+            <CVE_VALUE LANG_REF="und">grafika</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e9842ad1-1199-404d-b8fa-0410df4ed937">
+            <CVE_VALUE LANG_REF="und">zábava</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_84147389-e1c0-4354-bd59-b9df4fdfad01">
+            <CVE_VALUE LANG_REF="und">nedefinováno</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>

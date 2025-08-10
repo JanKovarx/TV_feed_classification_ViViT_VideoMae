@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-12-07T18:57:32+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///home/zeleznyt/Documents/Work/RAVDAI/done_annotations/davis_old/primafamily 2023-10-02 17.27.48.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./primafamily 2023-10-02 17.27.48.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6ba2aa87-8165-4223-9b6e-a0eb2b83682c</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">79</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="196680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="196800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="206760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="206840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="210800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="210920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="230880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="231040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="261000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="261160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="286120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="286280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="301240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="301400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="321360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="321520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="336480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="336640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="366600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="366800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="376720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="376880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="396840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="397000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="426960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="427120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="447080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="447240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="462200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="462360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="472320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="472480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="487440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="487600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="507560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="507720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="517680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="517840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="537800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="537960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="547920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="548080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="568040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="568200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="588160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="588320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="608280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="608440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="623400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="623560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="653520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="653680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="683640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="683720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="689680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="689720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="713680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="713720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="738960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="739000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="742680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="742720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="746680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="746800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="748760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="748800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="758760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="758800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="760760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="760840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="1368600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="1368640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="1374600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="1374720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="1384680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="1384840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="1394800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="1394960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="1404920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="1405080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="1415040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="1415120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="2307640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="2307760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="2317720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="2317880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="2327840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="2327920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="2351880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="2352000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="2366960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="2367120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="2377080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="2377240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="2407200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="2407360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="2432320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="2432480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="2452440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="2452600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="2467560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="2467720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="2487680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="2487840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="2507800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="2507960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="2537920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="2538080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="2553040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="2553200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="2573160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="2573320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="2603280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="2603440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="2623400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="2623560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="2643520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="2643680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="2658640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="2658800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="2688760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="2688920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="2708880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="2709040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="2729000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="2729080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="2733040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="2733160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="2743120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="2743280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="2753240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="2753320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="3623680"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="segmentV" TIER_ID="segmentV">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                CVE_REF="cveid_e9842ad1-1199-404d-b8fa-0410df4ed937"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>zábava</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                CVE_REF="cveid_d0e20634-a77a-42bc-bbf1-d99f14c75dbf"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>předěl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                CVE_REF="cveid_2834383e-80c7-437d-80ef-c59f7e2ac59a"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>upoutávka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                CVE_REF="cveid_2834383e-80c7-437d-80ef-c59f7e2ac59a"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>upoutávka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                CVE_REF="cveid_2834383e-80c7-437d-80ef-c59f7e2ac59a"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>upoutávka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                CVE_REF="cveid_d0e20634-a77a-42bc-bbf1-d99f14c75dbf"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>předěl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                CVE_REF="cveid_d0e20634-a77a-42bc-bbf1-d99f14c75dbf"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>předěl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                CVE_REF="cveid_d0e20634-a77a-42bc-bbf1-d99f14c75dbf"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>předěl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                CVE_REF="cveid_d0e20634-a77a-42bc-bbf1-d99f14c75dbf"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>předěl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                CVE_REF="cveid_e9842ad1-1199-404d-b8fa-0410df4ed937"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>zábava</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                CVE_REF="cveid_2834383e-80c7-437d-80ef-c59f7e2ac59a"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>upoutávka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                CVE_REF="cveid_e9842ad1-1199-404d-b8fa-0410df4ed937"
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>zábava</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                CVE_REF="cveid_2834383e-80c7-437d-80ef-c59f7e2ac59a"
+                TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>upoutávka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                CVE_REF="cveid_d0e20634-a77a-42bc-bbf1-d99f14c75dbf"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>předěl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                CVE_REF="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af"
+                TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>reklama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                CVE_REF="cveid_e9842ad1-1199-404d-b8fa-0410df4ed937"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>zábava</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="RAVDAI"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="segmentV" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="RAVDAI">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_38d8d2cb-f9fe-4fb6-a0ba-ed1e535ab8ff">
+            <CVE_VALUE LANG_REF="und">studio</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_81e4eaaf-94ca-4a39-a6f7-22048483205f">
+            <CVE_VALUE LANG_REF="und">indoor</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3409df0f-c4e1-4c63-ac3d-01d9334961bf">
+            <CVE_VALUE LANG_REF="und">outdoor</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d0e20634-a77a-42bc-bbf1-d99f14c75dbf">
+            <CVE_VALUE LANG_REF="und">předěl</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c1efb72e-3a34-4baa-ba7d-597399c540af">
+            <CVE_VALUE LANG_REF="und">reklama</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2834383e-80c7-437d-80ef-c59f7e2ac59a">
+            <CVE_VALUE LANG_REF="und">upoutávka</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d9e8fbf1-d8b0-4d02-bbbc-767f6ce83308">
+            <CVE_VALUE LANG_REF="und">grafika</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e9842ad1-1199-404d-b8fa-0410df4ed937">
+            <CVE_VALUE LANG_REF="und">zábava</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_84147389-e1c0-4354-bd59-b9df4fdfad01">
+            <CVE_VALUE LANG_REF="und">nedefinováno</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
