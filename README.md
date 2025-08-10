@@ -19,16 +19,25 @@ Naklonujte repozitář:
 git clone https://github.com/JanKovarx/TV_feed_classification_ViViT_VideoMae.git
 cd TV_feed_classification_ViViT_VideoMae
 ```
-Vytvořte a aktivujte virtuální prostředí:
-```
-python -m venv venv
-source venv/bin/activate # Linux/Mac
-venv\Scripts\activate # Windows
-```
 Nainstalujte závislosti:
 ```
 pip install -r requirements.txt
 ```
+## Spustění trénování:
+```
+python3 run_train_vivit.py
+-- používá config_vivit.yaml
+python3 run_train_Vmae.py
+-- používá config_Vmae.yaml
+```
+Pro Metacentrum:
+```
+qsub run_train_vivit.sh
+qsub run_train_Vmae.sh
+```
+## Soubory pro spuštění testování:
+Nachází se ve složce output_test_dataset spolu s výsledky natrénovaných modelů
+
 # Dataset
 181 videí z různých televizních stanic s celkovou délkou 178.77 hodin
 
