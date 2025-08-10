@@ -1,66 +1,60 @@
-# ViViT
-[Video Vision Transformer](https://arxiv.org/pdf/2103.15691) implementation in pytorch
+TV Feed Classification – ViViT & VideoMAE
+Tento projekt implementuje a porovnává dvě moderní transformerové architektury pro klasifikaci scén v televizním vysílání: Video Vision Transformer (ViViT) a Video Masked Autoencoder (VideoMAE).
 
-[//]: # (![ViViT architectures]&#40;assets/vivit_models.png&#41;)
-<p align="center">
-    <img src="assets/vivit_models.png" alt="ViViT architectures">
-</p>
+Popis projektu
+Cílem je automaticky klasifikovat krátké úseky televizních záznamů do předdefinovaných tříd na základě vizuálních dat.
+Projekt obsahuje:
 
-## Architecture
-Original [Video Vision Transformer](https://arxiv.org/pdf/2103.15691) paper presents 4 different ViViT architectures. This repository implements only the Model2: Factorised Encoder
-<p align="center">
-    <img src="assets/vivit_model2.png" alt="Implemented architecture">
-</p>
+Kompletní datové zpracování a přípravu datasetu
 
-## Embedding
-Original [Video Vision Transformer](https://arxiv.org/pdf/2103.15691) also uses two types of embedding. Uniform and Tubelet.
-This implementation provides option to use both types of embedding. For uniform embedding use `tubelet_size: 1`, `use_vit: True` for Conv2d implementation and `use_vit: False` for Conv3d implementation. See [`configs/example_config.yaml`](configs/example_config.yaml) for details.
+Implementaci modelů ViViT a VideoMAE
 
-<p align="center">
-    <img src="assets/vivit_embedding.png" alt="ViViT embeddings">
-</p>
+Trénování a vyhodnocení modelů
 
-# Installation
-```
-git clone https://github.com/zeleznyt/ViViT.git
-cd ViViT
-conda create --name vivit python=3.10
-conda activate vivit
+Analýzu výsledků a porovnání výkonu
+
+Struktura repozitáře
+.
+├── data/ # Složka pro dataset (není součástí repozitáře)
+├── models/ # Implementace architektur ViViT a VideoMAE
+├── notebooks/ # Jupyter notebooky pro testování a analýzu
+├── utils/ # Pomocné funkce pro načítání a zpracování dat
+├── requirements.txt # Seznam Python závislostí
+├── train.py # Hlavní skript pro trénování modelů
+├── evaluate.py # Skript pro vyhodnocení výsledků
+└── README.md # Tento soubor
+
+Instalace
+Naklonujte repozitář:
+git clone https://github.com/JanKovarx/TV_feed_classification_ViViT_VideoMae.git
+cd TV_feed_classification_ViViT_VideoMae
+
+Vytvořte a aktivujte virtuální prostředí:
+python -m venv venv
+source venv/bin/activate # Linux/Mac
+venv\Scripts\activate # Windows
+
+Nainstalujte závislosti:
 pip install -r requirements.txt
-```
 
-# Data
-Example data are located in [example_data_RAVDAI](https://github.com/zeleznyt/example_data_RAVDAI) repository.
-```
-git clone https://github.com/zeleznyt/example_data_RAVDAI.git
-```
+Dataset
+181 videí z různých televizních stanic
 
-# Usage
-### Train
-```
-cd ViViT
-conda activate vivit
-python train_vivit.py --config configs/example_config.yaml
-```
+Ruční anotace do 8 tříd (mix „scene environment“ a „content type“)
 
-### Eval
-```
-cd ViViT
-conda activate vivit
-python evaluate_vivit.py --config configs/example_config.yaml
-```
+Přísné rozdělení datasetu na trénovací, validační a testovací část bez sdílených videí
 
-# Citation
-Citation of original [ViViT paper](https://arxiv.org/pdf/2103.15691).
-```
-@inproceedings{arnab2021vivit,
-  title={Vivit: A video vision transformer},
-  author={Arnab, Anurag and Dehghani, Mostafa and Heigold, Georg and Sun, Chen and Lu{\v{c}}i{\'c}, Mario and Schmid, Cordelia},
-  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
-  pages={6836--6846},
-  year={2021}
-}
-```
+Modely
+ViViT
+Architektura factorised encoder (nejprve prostorová, pak časová pozornost)
 
-# Acknowledgement
-This implementation was inspired by [@rishikksh20](https://github.com/rishikksh20/) [repository](https://github.com/rishikksh20/ViViT-pytorch/tree/develop).
+Inicializováno z vit_b_16 předtrénovaného na ImageNet-1K
+
+Trénováno v plně supervidovaném režimu
+
+VideoMAE
+Předtrénováno na Kinetics-400 v samo-supervidovaném režimu
+
+Použita Base varianta (videomae-base)
+
+Finetuning na doménově specifických datech
