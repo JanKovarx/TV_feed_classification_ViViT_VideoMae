@@ -72,7 +72,7 @@ Použita Base varianta (videomae-base)
 ## Správné klasifikace ViViT
 ![Histogram_ViViT](assets/diagonal_histogram.jpg)
 
-##M atice záměn ViViT
+## Matice záměn ViViT
 ![Matice_ViViT](assets/confusion_no_diag.jpg)
 
 ## Správné klasifikace VideoMae
