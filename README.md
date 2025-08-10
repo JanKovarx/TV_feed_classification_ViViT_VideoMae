@@ -36,16 +36,14 @@ Anotace do 8 tříd (studio, indoor, outdoor, předěl, reklama, upoutávka, gra
 
 Přísné rozdělení datasetu na trénovací, validační a testovací část bez sdílených videí
 
-#Modely
-ViViT
+# Modely
+## ViViT
 Architektura factorised encoder
 
 Inicializováno z vit_b_16 předtrénovaného na ImageNet-1K
 
-Trénováno v plně supervidovaném režimu
-
-VideoMAE
-Předtrénováno na Kinetics-400 v samo-supervidovaném režimu
+## VideoMAE
+Předtrénováno na Kinetics-400 v self-supervised režimu
 
 Použita Base varianta (videomae-base)
 
