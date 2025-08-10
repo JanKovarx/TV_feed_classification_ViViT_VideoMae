@@ -56,4 +56,18 @@ Předtrénováno na Kinetics-400 v samo-supervidovaném režimu
 
 Použita Base varianta (videomae-base)
 
+Výsledky
+|Metric | ViViT | VideoMAE |
+|-------|-------|----------|
+|F1 score | 80.8% | 79.6% |
+|Accuracy | 81.1% | 79.9% |
+|Precision | 81.2% | 80.3% |
+|Recall | 81.1% | 78.9% |
+|Loss | 1.07 | 1.11 |
+|Overall success rate | 81.1% | 80.9% |
+
+Nejlepší výsledky pro vizuálně výrazné třídy (entertainment, advertisement)
+
+Slabší pro vizuálně podobné kategorie (indoor vs. studio)
+
 Finetuning na doménově specifických datech
