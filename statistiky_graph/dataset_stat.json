@@ -1,0 +1,94 @@
+{
+  "sample_counts_per_class": {
+    "entertainment": {
+      "count": 2549,
+      "percentage": 54.66
+    },
+    "advertisementa": {
+      "count": 599,
+      "percentage": 12.85
+    },
+    "indoor": {
+      "count": 498,
+      "percentage": 10.68
+    },
+    "divide": {
+      "count": 336,
+      "percentage": 7.21
+    },
+    "outdoor": {
+      "count": 242,
+      "percentage": 5.19
+    },
+    "trailer": {
+      "count": 185,
+      "percentage": 3.97
+    },
+    "studio": {
+      "count": 160,
+      "percentage": 3.43
+    },
+    "graphics": {
+      "count": 94,
+      "percentage": 2.02
+    }
+  },
+  "class_transitions": {
+    "entertainment to entertainment": 2513,
+    "advertisementa to advertisementa": 551,
+    "indoor to indoor": 350,
+    "divide to divide": 225,
+    "trailer to trailer": 143,
+    "studio to studio": 105,
+    "outdoor to outdoor": 102,
+    "outdoor to indoor": 100,
+    "indoor to outdoor": 99,
+    "graphics to graphics": 60,
+    "divide to advertisementa": 31,
+    "advertisementa to divide": 25,
+    "trailer to divide": 22,
+    "divide to trailer": 20,
+    "studio to indoor": 19,
+    "entertainment to divide": 18,
+    "divide to studio": 18,
+    "divide to entertainment": 17,
+    "indoor to studio": 17,
+    "studio to outdoor": 17,
+    "outdoor to studio": 15,
+    "indoor to graphics": 15,
+    "studio to divide": 15,
+    "indoor to divide": 13,
+    "outdoor to divide": 13,
+    "advertisementa to trailer": 12,
+    "graphics to outdoor": 12,
+    "graphics to indoor": 11,
+    "divide to outdoor": 11,
+    "trailer to advertisementa": 10,
+    "outdoor to graphics": 10,
+    "advertisementa to entertainment": 10,
+    "divide to indoor": 10,
+    "graphics to divide": 5,
+    "entertainment to advertisementa": 5,
+    "entertainment to trailer": 4,
+    "trailer to entertainment": 4,
+    "entertainment to indoor": 4,
+    "entertainment to graphics": 3,
+    "trailer to indoor": 3,
+    "divide to graphics": 3,
+    "studio to trailer": 2,
+    "trailer to studio": 2,
+    "studio to graphics": 2,
+    "graphics to studio": 2,
+    "graphics to entertainment": 2,
+    "indoor to entertainment": 2,
+    "outdoor to trailer": 2,
+    "entertainment to studio": 1,
+    "entertainment to outdoor": 1,
+    "trailer to graphics": 1,
+    "graphics to advertisementa": 1,
+    "advertisementa to indoor": 1,
+    "indoor to advertisementa": 1,
+    "indoor to trailer": 1,
+    "graphics to trailer": 1
+  }
+}

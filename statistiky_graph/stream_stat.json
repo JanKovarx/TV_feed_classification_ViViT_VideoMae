@@ -1,0 +1,94 @@
+{
+  "center_class_counts": {
+    "studio": 3924,
+    "indoor": 5627,
+    "outdoor": 3993,
+    "divide": 913,
+    "advertisement": 2686,
+    "trailer": 1322,
+    "graphics": 995,
+    "entertainment": 23095
+  },
+  "average_class_coverage": {
+    "studio": 90.01,
+    "indoor": 89.96,
+    "outdoor": 85.62,
+    "divide": 68.53,
+    "advertisement": 96.12,
+    "trailer": 92.05,
+    "graphics": 82.39,
+    "entertainment": 99.75
+  },
+  "class_cooccurrences": {
+    "studio": {
+      "indoor": 33.48,
+      "outdoor": 34.52,
+      "divide": 23.01,
+      "advertisement": 0.42,
+      "trailer": 1.03,
+      "graphics": 7.13,
+      "entertainment": 0.20
+    },
+    "indoor": {
+      "studio": 24.08,
+      "outdoor": 58.54,
+      "divide": 4.41,
+      "advertisement": 0.09,
+      "trailer": 1.29,
+      "graphics": 10.90,
+      "entertainment": 0.04
+    },
+    "outdoor": {
+      "studio": 25.02,
+      "indoor": 58.87,
+      "divide": 5.55,
+      "advertisement": 0.23,
+      "trailer": 0.44,
+      "graphics": 9.18
+    },
+    "divide": {
+      "studio": 28.56,
+      "indoor": 9.62,
+      "outdoor": 7.90,
+      "advertisement": 23.46,
+      "trailer": 13.33,
+      "graphics": 6.76,
+      "entertainment": 10.38
+    },
+    "advertisement": {
+      "studio": 1.31,
+      "indoor": 0.68,
+      "outdoor": 0.23,
+      "divide": 63.56,
+      "trailer": 20.81,
+      "graphics": 1.14,
+      "entertainment": 12.05
+    },
+    "trailer": {
+      "studio": 3.97,
+      "indoor": 5.95,
+      "outdoor": 5.27,
+      "divide": 51.59,
+      "advertisement": 23.53,
+      "graphics": 4.02,
+      "entertainment": 5.67
+    },
+    "graphics": {
+      "studio": 15.82,
+      "indoor": 35.22,
+      "outdoor": 36.88,
+      "divide": 7.59,
+      "advertisement": 0.82,
+      "trailer": 2.72,
+      "entertainment": 0.95
+    },
+    "entertainment": {
+      "studio": 0.84,
+      "indoor": 1.26,
+      "divide": 64.21,
+      "advertisement": 20.74,
+      "trailer": 10.74,
+      "graphics": 2.00
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+    "pocet_videi": 181,
+    "celkova_delka_minuty": 10726.44,
+    "celkova_delka_hodiny": 178.774,
+    "prumerna_delka_minuty": 59.26,
+    "stanice_info": {
+        "barrandov": {
+            "count": 11,
+            "total_duration": 665.18
+        },
+        "ct1": {
+            "count": 13,
+            "total_duration": 785.51
+        },
+        "ct2": {
+            "count": 10,
+            "total_duration": 604.28
+        },
+        "ct24": {
+            "count": 10,
+            "total_duration": 575.66
+        },
+        "ct4sport": {
+            "count": 10,
+            "total_duration": 584.61
+        },
+        "ctart": {
+            "count": 11,
+            "total_duration": 636.16
+        },
+        "ctdecko": {
+            "count": 8,
+            "total_duration": 483.64
+        },
+        "markizaint": {
+            "count": 11,
+            "total_duration": 665.02
+        },
+        "nova": {
+            "count": 10,
+            "total_duration": 604.21
+        },
+        "praha": {
+            "count": 13,
+            "total_duration": 785.39
+        },
+        "primafamily": {
+            "count": 9,
+            "total_duration": 453.9
+        },
+        "prima_news": {
+            "count": 11,
+            "total_duration": 665.0
+        },
+        "stv1": {
+            "count": 11,
+            "total_duration": 646.98
+        },
+        "stv2": {
+            "count": 12,
+            "total_duration": 697.68
+        },
+        "stv24": {
+            "count": 10,
+            "total_duration": 604.53
+        },
+        "ta3": {
+            "count": 11,
+            "total_duration": 664.71
+        },
+        "zaktv": {
+            "count": 10,
+            "total_duration": 603.98
+        }
+    }
+}
