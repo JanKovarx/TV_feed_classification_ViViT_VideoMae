@@ -13,16 +13,6 @@ Trénování a vyhodnocení modelů
 
 Analýzu výsledků a porovnání výkonu
 
-Struktura repozitáře
-
-- **data/** – složka pro dataset (není součástí repozitáře)  
-- **models/** – implementace architektur ViViT a VideoMAE  
-- **notebooks/** – Jupyter notebooky pro testování a analýzu  
-- **utils/** – pomocné funkce pro načítání a zpracování dat  
-- **requirements.txt** – seznam Python závislostí  
-- **train.py** – hlavní skript pro trénování modelů  
-- **evaluate.py** – skript pro vyhodnocení výsledků  
-
 # Instalace
 Naklonujte repozitář:
 ```
