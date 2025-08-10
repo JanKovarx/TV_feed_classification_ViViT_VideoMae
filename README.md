@@ -66,5 +66,5 @@ Použita Base varianta (videomae-base)
 ## Správné klasifikace VideoMae
 ![Histogram_VideoMae](assets/diagonal_histogram.png)
 
-## Matice záměn ViViT
+## Matice záměn VideoMae
 ![Matice_VideoMae](assets/confusion_matrix.png)
