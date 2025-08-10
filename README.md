@@ -14,15 +14,14 @@ Trénování a vyhodnocení modelů
 Analýzu výsledků a porovnání výkonu
 
 Struktura repozitáře
-.
-├── data/ # Složka pro dataset (není součástí repozitáře)
-├── models/ # Implementace architektur ViViT a VideoMAE
-├── notebooks/ # Jupyter notebooky pro testování a analýzu
-├── utils/ # Pomocné funkce pro načítání a zpracování dat
-├── requirements.txt # Seznam Python závislostí
-├── train.py # Hlavní skript pro trénování modelů
-├── evaluate.py # Skript pro vyhodnocení výsledků
-└── README.md # Tento soubor
+
+- **data/** – složka pro dataset (není součástí repozitáře)  
+- **models/** – implementace architektur ViViT a VideoMAE  
+- **notebooks/** – Jupyter notebooky pro testování a analýzu  
+- **utils/** – pomocné funkce pro načítání a zpracování dat  
+- **requirements.txt** – seznam Python závislostí  
+- **train.py** – hlavní skript pro trénování modelů  
+- **evaluate.py** – skript pro vyhodnocení výsledků  
 
 Instalace
 Naklonujte repozitář:
@@ -40,13 +39,13 @@ pip install -r requirements.txt
 Dataset
 181 videí z různých televizních stanic
 
-Ruční anotace do 8 tříd (mix „scene environment“ a „content type“)
+Anotace do 8 tříd (studio, indoor, outdoor, předěl, reklama, upoutávka, grafika, zábava)
 
 Přísné rozdělení datasetu na trénovací, validační a testovací část bez sdílených videí
 
 Modely
 ViViT
-Architektura factorised encoder (nejprve prostorová, pak časová pozornost)
+Architektura factorised encoder
 
 Inicializováno z vit_b_16 předtrénovaného na ImageNet-1K
 
