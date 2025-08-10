@@ -66,8 +66,14 @@ Výsledky
 |Loss | 1.07 | 1.11 |
 |Overall success rate | 81.1% | 80.9% |
 
-Nejlepší výsledky pro vizuálně výrazné třídy (entertainment, advertisement)
+Správné klasifikace ViViT
+![Histogram_ViViT](assets/diagonal_histogram.jpg)
 
-Slabší pro vizuálně podobné kategorie (indoor vs. studio)
+Matice záměn ViViT
+![Matice_ViViT](assets/confusion_matrix.jpg)
 
-Finetuning na doménově specifických datech
+Správné klasifikace VideoMae
+![Histogram_VideoMae](assets/diagonal_histogram.png)
+
+Matice záměn ViViT
+![Matice_VideoMae](assets/confusion_matrix.png)
